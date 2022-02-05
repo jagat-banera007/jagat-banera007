@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagat-banera007
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning ML and DSA
-- 💞️ I’m looking to collaborate on projects related to ML
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me - @BaneraJagat - Twitter 
 
 
